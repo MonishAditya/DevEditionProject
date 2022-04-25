@@ -1,4 +1,4 @@
-public class Sum {
+public class SumNum {
     public static Integer sum = 0;
     //public static Integer sum1 = 0;
     public static Integer sum1(Integer a, Integer b){         
