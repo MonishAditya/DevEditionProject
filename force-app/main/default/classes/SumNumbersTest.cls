@@ -15,9 +15,4 @@ public class SumNumbersTest {
         Integer zer = SumNumbers.add(0, 0);
         System.assertEquals(0, zer);
     }
-    @isTest
-    public static void mulPositiveNum(){
-        Integer pos = SumNumbers.mul(3, 2);
-        System.assertEquals(6, pos);
-    }
 }
